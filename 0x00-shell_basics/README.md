@@ -1,1 +1,4 @@
-shell basics readme
+
+cd
+ls
+cd ..
